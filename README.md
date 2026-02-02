@@ -26,7 +26,7 @@ Next.js, React, Spring Boot
 ---
 
 ## 📊 GitHub Stats
-![Wageesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=wageesha&show_icons=true&theme=radical)
+![Wageesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeshaN2001&show_icons=true&theme=radical)
 
 ---
 
