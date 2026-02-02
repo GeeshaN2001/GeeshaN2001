@@ -26,7 +26,12 @@ Next.js, React, Spring Boot
 ---
 
 ## 📊 GitHub Stats
-![Wageesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeshaN2001&show_icons=true&theme=radical)
+
+![GeeshaN2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeshaN2001&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeshaN2001&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeeshaN2001&theme=radical)
 
 ---
 
