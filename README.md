@@ -12,6 +12,11 @@ Hii, I'm Wageesha Narandeniya.<br>Currently I'm working on AI/ML recommendation 
 ![](https://nirzak-streak-stats.vercel.app/?user=GeeshaN2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeshaN2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Contribution Timeline
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/GeeshaN2001/GeeshaN2001/output/github-contribution-grid-snake.svg)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GeeshaN2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
